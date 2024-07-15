@@ -1,0 +1,96 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="choicescript">
+			<method name="ChoiceOption1"/>
+			<method name="ChoiceOption1"/>
+			<method name="ChoiceOption2"/>
+			<method name="ChoiceOption2"/>
+		</type>
+		<type fullname="opendoor">
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+			<method name="ADDDigit"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
